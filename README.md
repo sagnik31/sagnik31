@@ -14,8 +14,11 @@ Agentic AI Engineer based in Bengaluru, India. I build production LLM agent syst
 
 ## Projects
 
-- **[WordHunt](https://github.com/sagnik31/word-hunt)**: a word-guessing game scored by semantic similarity between words.
+## Projects
+
+- **[Word-Hunt](https://github.com/sagnik31/word-hunt)**: a word-guessing game scored by semantic similarity between words.
 - **[Med-Sum](https://github.com/sagnik31/med-sum)**: a retrieval-augmented app that summarises medical records.
+- **[Focus-Lock](https://github.com/sagnik31/focus-lock)**: a Windows desktop app that blocks distracting apps and websites during timed or scheduled focus sessions, and keeps blocking them after the window is closed. Built with Go and React (TypeScript) on Wails.
 
 ## Open-source contributions
 
@@ -33,4 +36,4 @@ These were contributed from my former work account, [@sgnkc](https://github.com/
 
 ## Contact
 
-sagnik31@gmail.com · [LinkedIn](https://www.linkedin.com/in/chakrabortysagnik)
+sagnik31@gmail.com · [LinkedIn](https://www.linkedin.com/in/chakraborty-sagnik)
